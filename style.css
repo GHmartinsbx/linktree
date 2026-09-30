@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(25, 25, 218);
+
+}
+h2 {
+    color: darkred;
+}
+button {
+    background-color: blueviolet;
+    color: white;
+}
+img{
+    border-radius: 50%;
+}
+body{
+    background-color: aqua;
+}
