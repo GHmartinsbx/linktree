@@ -1,17 +1,30 @@
+
 h1 {
-    color: rgb(25, 25, 218);
+    color: rgb(16, 16, 29);
 
 }
 h2 {
-    color: darkred;
+    color: rgb(88, 236, 20);
 }
 button {
-    background-color: blueviolet;
+    background-color: rgb(4, 95, 19);
     color: white;
 }
-img{
-    border-radius: 50%;
-}
+
+
+
+
+
 body{
-    background-color: aqua;
+    background-color: rgb(17, 85, 17);
+    text-align: center;
+    font-size: 20PX;
+    color: gold;
+}
+
+img {
+    width: 150px;
+}
+.mapa {
+    border-radius: 200px;
 }
